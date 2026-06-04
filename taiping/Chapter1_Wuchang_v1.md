@@ -1,5 +1,15 @@
 # Return to Life: A Boy's War in the Taiping Heavenly Kingdom
 
+> **Editorial Note**
+>
+> This is a first-person English adaptation of 《复生录》(Records of Return to Life), the memoir of Chen Sibo (陈思伯), who at age sixteen was conscripted into the Taiping Heavenly Kingdom army in 1852 and survived four years of war before escaping home.
+>
+> The primary source for this adaptation is the author's modern Chinese rewrite (published on Zhihu, 350,000+ reads), which expands the original classical Chinese text with battlefield detail, material culture, and narrative pacing suited to contemporary readers. The original 覆生录 by Chen Sibo serves as a secondary source for voice calibration and factual correction.
+>
+> This is not a translation. It is a re-creation — the same story, retold for English-speaking readers in the tradition of *All Quiet on the Western Front*: immersive, sensory, and anchored in the perspective of an ordinary soldier.
+>
+> — snail0000haaa
+
 ## Chapter 1 — Wuchang
 
 Long ago, a man rode a yellow crane away from this place and never returned. Only the tower remained, and the white clouds drifting over it a thousand years.
@@ -167,13 +177,3 @@ I did not know it would take four years.
 - The line "even the gods were conscripted" may read as too polished for a narrator who is supposed to be recounting events simply. If it feels like the author's voice intruding, it can be cut.
 - The transition from the city's fall to the search of the Chen household may feel abrupt. A connecting passage about the passage of time (one day, two days) could help.
 
-**Decisions needed from the author:**
-1. Does the Yellow Crane Tower poem as translated here work for you, or would you prefer a different approach (e.g., prose paraphrase, or cutting it entirely)?
-2. The section about Taiping discipline at the end — including the gender segregation law — I moved this from your Chapter 2 content into the close of Chapter 1. Is this acceptable, or should I keep it strictly within the chapter boundaries of your original?
-3. The line "a sweetness I did not recognize then but would come to know well" — this is a flash-forward from the older narrator. Do you want this kind of temporal flex, or should the narration stay strictly in the moment?
-
-## Next Review Questions
-
-1. Does the "I" voice feel like someone you trust telling this story, or does it still feel like a stranger?
-2. Where does the chapter still carry too much "explanation" and not enough "experience"?
-3. The Yellow Crane Tower opening — does it earn its place, or does it slow the start?

@@ -12,9 +12,16 @@
 
 ## Chapter 1 — Wuchang
 
-Long ago, a man rode a yellow crane away from this place and never returned. Only the tower remained, and the white clouds drifting over it a thousand years.
-
-The trees of Hanyang stood clear in the sunlight across the river. The grass grew thick on Parrot Island. At dusk, a man could not say where home was — only that the mist over the water made his heart ache.
+> He rode the yellow crane away. He did not return.
+> The tower remains. The clouds have drifted here a thousand years.
+>
+> Hanyang's trees are clear across the water.
+> The grass grows wild on Parrot Island.
+>
+> Dusk. Where is home?
+> Mist on the river. A heart that cannot rest.
+>
+> — Cui Hao (704–754), *Yellow Crane Tower*
 
 That poem was written four hundred years before I was born, about a tower that stood on Snake Hill, above the city where I spent the worst morning of my life. The poet had been exiled. He stood on that hill and looked out over the Yangtze and could not find his way home. I understand him now in a way I could not when I was sixteen, sitting in my uncle's house on Chaoyang Lane, reciting his verses for the civil service exams, believing that the world was arranged in a certain order and that order would hold.
 
